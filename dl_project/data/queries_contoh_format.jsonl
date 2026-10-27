@@ -1,0 +1,3 @@
+{"qid": "CONTOH1", "question": "(isi pertanyaan bahasa sehari-hari)", "type": "explanation", "gold": ["UU14_2008_p17"], "answer": "(jawaban singkat tulisan kelompok, memuat [UU 14/2008 Pasal 17])"}
+{"qid": "CONTOH2", "question": "(pertanyaan yang pasalnya ada di dua undang-undang)", "type": "cross-law", "gold": ["UU14_2008_p1", "UU25_2009_p4"]}
+{"qid": "CONTOH3", "question": "(pertanyaan di luar topik, misalnya resep masakan)", "type": "out-of-scope", "gold": []}

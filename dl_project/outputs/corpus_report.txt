@@ -1,0 +1,28 @@
+UU14_2008_p13: teks tidak diakhiri tanda baca, mungkin terpotong
+UU14_2008_p18: teks tidak diakhiri tanda baca, mungkin terpotong
+UU14_2008_p27: teks tidak diakhiri tanda baca, mungkin terpotong
+UU14_2008_p30: teks tidak diakhiri tanda baca, mungkin terpotong
+UU14_2008_p33: teks tidak diakhiri tanda baca, mungkin terpotong
+UU14_2008_p41: teks sangat pendek (73 karakter)
+UU14_2008_p59: teks tidak diakhiri tanda baca, mungkin terpotong
+UU14_2008_p64: teks tidak diakhiri tanda baca, mungkin terpotong
+PP61_2010_p22: teks tidak diakhiri tanda baca, mungkin terpotong
+UU25_2009_p5: teks tidak diakhiri tanda baca, mungkin terpotong
+UU25_2009_p62: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022: jumlah pasal 74, diharapkan 76
+UU27_2022: nomor pasal ganda ['2', '3', '4', '5', '6', '7', '8', '9', '15', '16', '17', '18', '19', '20', '21', '25', '26', '28', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55', '61', '62', '63', '64', '65', '66', '67', '68', '69', '7O', '71', '73', '74', '75', '76']
+UU27_2022_p4: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p6: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p17: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p24: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p44: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p52: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p60: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p62: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p63: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p64: teks sangat pendek (25 karakter)
+UU27_2022_p68: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p7O: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p71: teks tidak diakhiri tanda baca, mungkin terpotong
+UU27_2022_p23: teks sangat pendek (65 karakter)
+UU27_2022_p29: teks sangat pendek (12 karakter)

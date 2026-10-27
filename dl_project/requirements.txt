@@ -1,0 +1,10 @@
+torch
+transformers>=4.44
+peft>=0.12
+bitsandbytes>=0.43
+accelerate>=0.33
+rank_bm25
+pypdf
+numpy
+pandas
+matplotlib

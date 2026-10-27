@@ -1,0 +1,9 @@
+korpus,penjelasan,retriever,hit@1,hit@3,hit@5,MRR,n
+bersih,ya,BM25,0.383,0.617,0.681,0.529,47
+bersih,ya,Dense pretrained,0.489,0.681,0.787,0.619,47
+bersih,tidak,BM25,0.468,0.638,0.723,0.586,47
+bersih,tidak,Dense pretrained,0.426,0.723,0.787,0.59,47
+mentah,ya,BM25,0.404,0.596,0.681,0.535,47
+mentah,ya,Dense pretrained,0.468,0.702,0.787,0.6,47
+mentah,tidak,BM25,0.468,0.617,0.702,0.582,47
+mentah,tidak,Dense pretrained,0.426,0.617,0.702,0.56,47
