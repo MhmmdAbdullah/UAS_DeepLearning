@@ -53,20 +53,23 @@ def main():
     random.seed(SEED)
     groups = make_groups(queries)
     split = {"train": [], "val": [], "test": []}
+    ratio = {"train": 0.70, "val": 0.15, "test": 0.15}
     # kelompok in-scope dan out-of-scope dibagi terpisah agar out-of-scope ada di setiap split
     for part in ([g for g in groups if g[0]["gold"]], [g for g in groups if not g[0]["gold"]]):
         random.shuffle(part)
+        part.sort(key=len, reverse=True)   # kelompok terbesar dibagi lebih dulu
         n_part = sum(len(g) for g in part)
-        got = {"val": 0, "test": 0}
+        target = {name: r * n_part for name, r in ratio.items()}
+        got = {name: 0 for name in ratio}
         for g in part:
-            if got["test"] < 0.2 * n_part:
-                split["test"] += g
-                got["test"] += len(g)
-            elif got["val"] < 0.2 * n_part:
-                split["val"] += g
-                got["val"] += len(g)
-            else:
-                split["train"] += g
+            # kelompok masuk ke split yang paling jauh dari targetnya
+            name = max(target, key=lambda s: target[s] - got[s])
+            split[name] += g
+            got[name] += len(g)
+
+    # kelompok terbesar, untuk memeriksa apakah ada kelompok yang terlalu besar
+    sizes = sorted((len(g) for g in groups), reverse=True)[:5]
+    print("ukuran 5 kelompok terbesar:", sizes)
 
     for name, rows in split.items():
         print(f"{name}: {len(rows)} pertanyaan", dict(Counter(q["type"] for q in rows)))
@@ -105,3 +108,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    

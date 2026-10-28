@@ -1,0 +1,4 @@
+retriever,hit@1,hit@3,hit@5,MRR,n
+BM25,0.476,0.667,0.762,0.596,42
+Dense pretrained,0.571,0.786,0.81,0.688,42
+Dense fine-tuned,0.643,0.786,0.857,0.735,42

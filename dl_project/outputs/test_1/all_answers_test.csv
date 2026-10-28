@@ -1,0 +1,424 @@
+sistem,qid,question,type,gold,answer,cited
+1 LM tanpa retrieval,q037,Apa prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009?,explanation,UU25_2009_p4,"Prinsip penyelenggaraan pelayanan publik yang disepakati dalam Undang-Undang (UU) Nomor 25 Tahun 2009 tentang Pelayanan Publik adalah:
+
+1. Transparansi dan Akuntabilitas:
+   - Informasi yang diberikan harus transparan dan dapat diakses oleh masyarakat.
+   - Keputusan atau kebijakan yang berlaku harus dapat dibuktikan secara akurat.
+
+2. Keseimbangan Antara Privasi dan Kepentingan Masyarakat:
+   - Menghormati privasi sementara memenuhi kepentingan publik.
+   - Memperhatikan hak individu untuk mengamankan diri mereka sendiri.
+
+3. Kesesuaian dengan Hukuman:
+   - Dalam menentukan hukuman, perlu diikuti dengan penilaian terhadap faktualnya.
+
+4. Penggunaan Teknologi:
+   - Menggunakan teknologi yang efektif dan efis",
+1 LM tanpa retrieval,q065,Warga mempertanyakan prinsip kesamaan hak saat mengakses layanan pemerintah. Pasal mana yang memuat asas tersebut?,situation,UU25_2009_p4,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q009,Informasi seperti apa yang wajib diumumkan secara berkala?,explanation,UU14_2008_p9,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q029,Dalam keadaan apa UU PDP berlaku terhadap pihak yang melakukan perbuatan hukum?,explanation,UU27_2022_p2,UU 14/2008 Pasal 17.,UU14_2008_p17
+1 LM tanpa retrieval,q007,Apakah badan publik boleh menolak semua permintaan informasi?,explanation,UU14_2008_p6,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+1 LM tanpa retrieval,q044,Badan publik menolak memberikan dokumen karena termasuk informasi yang dikecualikan. Apakah penolakan selalu dilarang?,situation,UU14_2008_p6,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+1 LM tanpa retrieval,q017,Apa saja ruang lingkup pelayanan publik?,explanation,UU25_2009_p5,"[UU 14/2008 Pasal 17] Pelayanan publik meliputi:
+
+1. Layanan administratif.
+2. Layanan perizinan atau izin.
+3. Layanan pembuatan dokumen.
+4. Layanan pengajuan bantuan sosial.
+5. Layanan lainnya yang berkaitan dengan kepentingan masyarakat.
+
+Dalam konteks pelayanan publik, ruang lingkup yang umumnya diperlukan antara lain adalah:
+- Ruang Lingkup Administratif
+- Ruang Lingkup Perizinan
+- Ruang Lingkup Pengajuan Bantuan Sosial
+
+Namun, untuk lebih spesifik, ruang lingkup tersebut dapat berbeda-beda tergantung pada jenis pelayanan publik yang ditawarkan oleh pemerintah daerah atau pusat.",UU14_2008_p17
+1 LM tanpa retrieval,q063,Seorang warga bingung apakah layanan pengurusan dokumen termasuk pelayanan publik. Bagian mana dari UU 25/2009 yang perlu dilihat?,situation,UU25_2009_p5,"UU 25/2009, Pasal 3.",UU25_2009_p3
+1 LM tanpa retrieval,q071,"Warga mempertanyakan mengapa layanan pemerintah memiliki beberapa jenis layanan barang, jasa, dan administrasi. Pasal mana yang menjelaskan cakupannya?",situation,UU25_2009_p5,Pasal 17 dari Undang-Undang No. 14 Tahun 2008 tentang Pemenuhan Kebutuhan Informasi Publik.,
+1 LM tanpa retrieval,q028,Apa asas yang disebut dalam UU Pelindungan Data Pribadi?,explanation,UU27_2022_p3,UU 14/2008 Pasal 17.,UU14_2008_p17
+1 LM tanpa retrieval,q073,Saya ingin mengetahui asas kerahasiaan dan pertanggungjawaban dalam pelindungan data. Pasal mana yang perlu dibaca?,situation,UU27_2022_p3,UU 14/2008 Pasal 17.,UU14_2008_p17
+1 LM tanpa retrieval,q032,Apa kewajiban badan publik terkait arsip dan dokumentasi informasi?,explanation,UU14_2008_p8,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q059,Petugas menyimpan dokumen informasi publik tanpa mengikuti aturan pengarsipan. Pasal mana yang terkait?,situation,UU14_2008_p8,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q036,Apa aturan mengenai informasi yang dapat mengungkap akta otentik pribadi atau wasiat?,explanation,PP61_2010_p8,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q012,Bagaimana penetapan klasifikasi informasi yang dikecualikan didokumentasikan?,explanation,PP61_2010_p4,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+1 LM tanpa retrieval,q046,Sebuah instansi menetapkan klasifikasi informasi hanya lewat pesan lisan. Bagaimana penetapannya seharusnya?,situation,PP61_2010_p4,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q026,Apa hak Subjek Data Pribadi terkait pembatasan pemrosesan data?,explanation,UU27_2022_p11,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q057,Saya ingin membatasi pemrosesan data pribadi saya untuk sementara. Apakah UU PDP membahas hal itu?,situation,UU27_2022_p11,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q101,Bagaimana cara menghitung bunga majemuk investasi?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+1 LM tanpa retrieval,q114,Bagaimana cara mengajukan klaim asuransi perjalanan?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+1 LM tanpa retrieval,q115,Siapa penemu telepon dan kapan ditemukan?,out-of-scope,,[UU 14/2008 Pasal 17],UU14_2008_p17
+1 LM tanpa retrieval,q100,Apa penyebab gempa bumi tektonik?,out-of-scope,,[UU 14/2008 Pasal 17] Gempa bumi adalah gejolak atau pergerakan permukaan bumi yang disebabkan oleh kekacauan struktural (tektonik) dalam bumi. Tektonik berarti terjadi karena adanya geseran antara dua atau lebih batas permukaan bumi yang saling bertemu.,UU14_2008_p17
+1 LM tanpa retrieval,q110,Berapa harga emas per gram hari ini?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+1 LM tanpa retrieval,q108,Tolong terjemahkan kalimat ini ke bahasa Jepang.,out-of-scope,,"Maaf, saya tidak dapat membantu Anda dalam hal ini karena pertanyaan tersebut berada di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+2 BM25 + LM pretrained (baseline),q037,Apa prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009?,explanation,UU25_2009_p4,"Prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009 adalah:
+
+a. memberikan pelayanan tanpa dihambat pihak lain yang bukan tugasnya;
+
+b. melakukan kerja sama;
+
+c. mempunyai anggaran pembiayaan penyelenggaraan pelayanan publik;
+
+d. melakukan pembelaan terhadap pengaduan dan tuntutan yang tidak sesuai dengan kenyatan dalam penyelenggaraan pelayanan publik; dan
+
+e. menolak permintaan pelayanan yang bertentangan dengan peraturan perundang-undangan.",
+2 BM25 + LM pretrained (baseline),q065,Warga mempertanyakan prinsip kesamaan hak saat mengakses layanan pemerintah. Pasal mana yang memuat asas tersebut?,situation,UU25_2009_p4,Pasal 17 huruf g.,
+2 BM25 + LM pretrained (baseline),q009,Informasi seperti apa yang wajib diumumkan secara berkala?,explanation,UU14_2008_p9,[UU 14/2008 Pasal 52],UU14_2008_p52
+2 BM25 + LM pretrained (baseline),q029,Dalam keadaan apa UU PDP berlaku terhadap pihak yang melakukan perbuatan hukum?,explanation,UU27_2022_p2,"UU 27/2022 Pasal 2, ayat (1): ""yang berada di wilayah hukum Negara Republik Indonesia""",UU27_2022_p2
+2 BM25 + LM pretrained (baseline),q007,Apakah badan publik boleh menolak semua permintaan informasi?,explanation,UU14_2008_p6,"Tidak boleh. Menurut Pasal 6 UU 14/2008, Badan Publik berhak menolak memberikan informasi yang dikecualikan sesuai dengan ketentuan peraturan perundang-undangan. Hal tersebut meliputi informasi yang dapat membahayakan negara, informasi berkaitan dengan kepentingan perlindungan usaha dari persaingan usaha tidak sehat, informasi berkaitan dengan hak-hak pribadi, dan informasi berkaitan dengan rahasia jabatan. Namun, jika informasi yang diminta belum dikuasai atau didokumentasikan, maka Badan Publik juga berhak menolak memberinya.",
+2 BM25 + LM pretrained (baseline),q044,Badan publik menolak memberikan dokumen karena termasuk informasi yang dikecualikan. Apakah penolakan selalu dilarang?,situation,UU14_2008_p6,"Tidak selalu dilarang. Menolak memberikan dokumen jika mencakup informasi dikecualikan dapat dilakukan sesuai dengan aturan yang berlaku. Namun, hal tersebut harus diikuti dengan beberapa syarat:
+
+1. Dokumen tersebut tidak lagi menjadi alasan utama untuk penolakan.
+
+2. Penolakan harus dilakukan secara formal dan berdasarkan alasan yang jelas.
+
+3. Dalam kasus ini, informasi yang dikecualikan adalah ""ketetapan, keputusan, peraturan, surat edaran, ataupun bentuk kebijakan lain, baik yang tidak berlaku mengikat maupun mengikat ke dalam ataupun ke luar serta pertimbangan lembaga penegak hukum.""
+
+Jadi, meskipun penolakan bisa dilakukan, ia harus diikuti dengan beberapa prasyarat agar tidak dituduh sebagai upaya untuk menghindari memberikan informasi yang dikecualikan.",
+2 BM25 + LM pretrained (baseline),q017,Apa saja ruang lingkup pelayanan publik?,explanation,UU25_2009_p5,"Menurut Pasal 5 ayat (6) UU 25/2009, ruang lingkup pelayanan publik mencakup:
+
+1. Pemantauan dan pengawasan terhadap pelayanan publik.
+2. Kebijakan dan regulasi pelayanan publik.
+3. Manajemen dan operasional pelayanan publik.
+4. Evaluasi efektivitas dan efisiensi pelayanan publik.
+
+Dengan demikian, ruang lingkup pelayanan publik meliputi semua aspek yang berkaitan dengan manfaat dan layanan yang diberikan oleh pemerintah kepada masyarakat.",
+2 BM25 + LM pretrained (baseline),q063,Seorang warga bingung apakah layanan pengurusan dokumen termasuk pelayanan publik. Bagian mana dari UU 25/2009 yang perlu dilihat?,situation,UU25_2009_p5,Huruf a Peraturan perundang-undangan yang menjadi dasar penyelenggaraan pelayanan.,
+2 BM25 + LM pretrained (baseline),q071,"Warga mempertanyakan mengapa layanan pemerintah memiliki beberapa jenis layanan barang, jasa, dan administrasi. Pasal mana yang menjelaskan cakupannya?",situation,UU25_2009_p5,"Pasal [UU 25/2009 Pasal 5] menjelaskan ruang lingkup pelayanan publik yang meliputi ""pendidikan, pengajaran, pekerjaan dan usaha, tempat tinggal, komunikasi dan informasi, lingkungan hidup, kesehatan, jaminan sosial, energi, perbankan, perhubungan, sumber daya alam, pariwisata, dan sektor strategis lainnya"". Dalam hal ini, Pasal 5 memberikan gambaran umum tentang ruang lingkup pelayanan publik yang melibatkan berbagai aspek kehidupan masyarakat.",UU25_2009_p5
+2 BM25 + LM pretrained (baseline),q028,Apa asas yang disebut dalam UU Pelindungan Data Pribadi?,explanation,UU27_2022_p3,"Pasal 60 [UU 27/2022] menyatakan bahwa Lembaga sebagaimana dimaksud dalam Pasal 58 ayat (2) berwenang:
+
+a. merumuskan dan menetapkan kebijakan di bidang Pelindungan Data Pribadi;
+
+b. melakukan pengawasan terhadap kepatuhan Pengendali Data Pribadi;
+
+c. menjatuhkan sanksi administratif atas pelanggaran Pelindungan Data Pribadi yang dilakukan Pengendali Data Pribadi dan/atau Prosesor Data Pribadi;
+
+d. membantu aparat penegak hukum dalam penanganan dugaan tindak pidana Data Pribadi sebagaimana dimaksud dalam Undang-Undang ini;
+
+e. bekerja sama dengan lembaga Pelindungan Data Pribadi negara lain dalam rangka penyelesaian dugaan pelanggaran Pelindungan Data Pribadi lint",
+2 BM25 + LM pretrained (baseline),q073,Saya ingin mengetahui asas kerahasiaan dan pertanggungjawaban dalam pelindungan data. Pasal mana yang perlu dibaca?,situation,UU27_2022_p3,"Pasal yang perlu dibaca adalah:
+
+**UU 27/2022 Pasal 36**
+
+""**Dalam melakukan pemrosesan Data Pribadi, Pengendali Data Pribadi wajib menjaga kerahasiaan Data Pribadi.""**",UU27_2022_p36
+2 BM25 + LM pretrained (baseline),q032,Apa kewajiban badan publik terkait arsip dan dokumentasi informasi?,explanation,UU14_2008_p8,"Menyediakan, memberikan, dan/atau menerbitkan Informasi Publik yang berada di bawah kewenangannya kepada Pemohon Informasi Publik, selain informasi yang dikecualikan sesuai dengan ketentuan.",
+2 BM25 + LM pretrained (baseline),q059,Petugas menyimpan dokumen informasi publik tanpa mengikuti aturan pengarsipan. Pasal mana yang terkait?,situation,UU14_2008_p8,Pasal [UU 14/2008 Pasal 5],UU14_2008_p5
+2 BM25 + LM pretrained (baseline),q036,Apa aturan mengenai informasi yang dapat mengungkap akta otentik pribadi atau wasiat?,explanation,PP61_2010_p8,[UU 14/2008 Pasal 17],UU14_2008_p17
+2 BM25 + LM pretrained (baseline),q012,Bagaimana penetapan klasifikasi informasi yang dikecualikan didokumentasikan?,explanation,PP61_2010_p4,"Pasal 4 dan Pasal 10-11 dari Peraturan Pemerintah Nomor 61 tahun 2010 melampirkan detail tentang bagaimana pengklasifikasian informasi harus ditetapkan. Secara umum, pasal tersebut memberikan beberapa elemen penting:
+
+1. Surat penetapan klasifikasi harus mencakup:
+   - Jenis klasifikasi Informasi yang Dikecualikan
+   - Identitas pejabat PPID yang menetapkan
+   - Badan Publik, termasuk unit kerja pejabat yang menetapkan
+   - Jangka Waktu Pengecualian
+   - Alasan pengecualian
+   - Tempat dan tanggal penetapan
+
+2. Kebijakan ini harus disampaikan secara formal dan terperinci untuk memastikan keakuratan dan transparansi dalam pengklasifikasi informasi.
+
+3. Setiap perubahan dalam klasifikasi Informasi",
+2 BM25 + LM pretrained (baseline),q046,Sebuah instansi menetapkan klasifikasi informasi hanya lewat pesan lisan. Bagaimana penetapannya seharusnya?,situation,PP61_2010_p4,"Sebagai asisten informasi hukum, saya bisa menjawab pertanyaan Anda berdasarkan Pasal 4 dari Peraturan Pemerintah Nomor 61 tahun 2010 tentang Kepentingan Informasi Publik:
+
+Surat penetapan klasifikasi sebagaimana dimaksud dalam ayat (1) harus mencakup:
+a. jenis klasifikasi Informasi yang Dikecualikan;
+b. identitas pejabat PPID yang menetapkan;
+c. Badan Publik, termasuk unit kerja pejabat yang menetapkan;
+d. Jangka Waktu Pengecualian;
+e. alasan pengecualian; dan
+f. tempat dan tanggal penetapan.
+
+Jadi, jika sebuah instansi menetapkan klasifikasi informasi hanya lewat pesan lisan tanpa mencakup semua elemen tersebut, maka penetapan tersebut tidak mencerminkan ketepatan dan keakuratan yang dibutuh",
+2 BM25 + LM pretrained (baseline),q026,Apa hak Subjek Data Pribadi terkait pembatasan pemrosesan data?,explanation,UU27_2022_p11,Pasal 41 UU 27/2022 Pasal 34 UU 27/2022 Pasal 16 UU 27/2022,"UU27_2022_p34, UU27_2022_p16"
+2 BM25 + LM pretrained (baseline),q057,Saya ingin membatasi pemrosesan data pribadi saya untuk sementara. Apakah UU PDP membahas hal itu?,situation,UU27_2022_p11,"Ya, UU No. 27/2022 tentang Penyandang Disabiliti membahas hal tersebut. Secara umum, UU No. 27/2022 mengatur tentang batasan pemrosesan data pribadi, termasuk dalam konteks pembatasan pemrosesan data pribadi untuk tujuan tertentu. Namun, detailnya mungkin bervariasi tergantung pada bagaimana UU No. 27/2022 diterapkan oleh pemerintah.",
+2 BM25 + LM pretrained (baseline),q101,Bagaimana cara menghitung bunga majemuk investasi?,out-of-scope,,[UU 14/2008 Pasal 9],UU14_2008_p9
+2 BM25 + LM pretrained (baseline),q114,Bagaimana cara mengajukan klaim asuransi perjalanan?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+2 BM25 + LM pretrained (baseline),q115,Siapa penemu telepon dan kapan ditemukan?,out-of-scope,,Pasal 28 [UU 25/2009],
+2 BM25 + LM pretrained (baseline),q100,Apa penyebab gempa bumi tektonik?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+2 BM25 + LM pretrained (baseline),q110,Berapa harga emas per gram hari ini?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+2 BM25 + LM pretrained (baseline),q108,Tolong terjemahkan kalimat ini ke bahasa Jepang.,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+3 Dense + LM pretrained,q037,Apa prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009?,explanation,UU25_2009_p4,"Prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009 adalah:
+
+(1) Pelayanan publik adalah kegiatan atau rangkaian kegiatan dalam rangka pemenuhan kebutuhan pelayanan sesuai dengan peraturan perundangundangan bagi setiap warga negara dan penduduk atas barang, jasa, dan/atau pelayanan administratif yang disediakan oleh penyelenggara pelayanan publik.
+
+(2) Penyelenggara pelayanan publik yang selanjutnya disebut Penyelenggara adalah setiap institusi penyelenggara negara, korporasi, lembaga independen yang dibentuk berdasarkan undangundang untuk kegiatan pelayanan publik, dan badan hukum lain yang dibentuk semata-mata untuk kegiatan pelayanan publik.
+
+(3) Atasan satuan kerja penyelengg",
+3 Dense + LM pretrained,q065,Warga mempertanyakan prinsip kesamaan hak saat mengakses layanan pemerintah. Pasal mana yang memuat asas tersebut?,situation,UU25_2009_p4,"Pasal yang memuat asas kesamaan hak saat mengakses layanan pemerintah adalah:
+
+[UU 25/2009 Pasal 3]
+
+Huruf d ""kesamaan hak"" disebutkan sebagai salah satu prinsip utama dalam penjelasan tentang penyelenggaraan pelayanan publik. Ini menekankan bahwa pemberian pelayanan harus memenuhi asas-asas umum pemerintahan dan korporasi, termasuk kesamaan hak antara semua warga negara.",UU25_2009_p3
+3 Dense + LM pretrained,q009,Informasi seperti apa yang wajib diumumkan secara berkala?,explanation,UU14_2008_p9,"[UU 14/2008 Pasal 9, ayat (1)]",UU14_2008_p9
+3 Dense + LM pretrained,q029,Dalam keadaan apa UU PDP berlaku terhadap pihak yang melakukan perbuatan hukum?,explanation,UU27_2022_p2,UU 27/2022 Pasal 2 (1) a. dan b.,UU27_2022_p2
+3 Dense + LM pretrained,q007,Apakah badan publik boleh menolak semua permintaan informasi?,explanation,UU14_2008_p6,[UU 14/2008 Pasal 45 ayat (2)],UU14_2008_p45
+3 Dense + LM pretrained,q044,Badan publik menolak memberikan dokumen karena termasuk informasi yang dikecualikan. Apakah penolakan selalu dilarang?,situation,UU14_2008_p6,"Ya, penolakan selalu dilarang. Menurut Pasal 47 ayat (1), jika dokumen tersebut termasuk dalam informasi yang dikecualikan, maka putusan Komisi Informasi akan memerintahkan pejabat pengelola informasi dan dokumentasi untuk menjalankan kewajibannya sesuai dengan undang-undang. Ini melambangkan bahwa penolakan selalu dilarang jika dokumen tersebut termasuk dalam informasi yang dikecualikan.",
+3 Dense + LM pretrained,q017,Apa saja ruang lingkup pelayanan publik?,explanation,UU25_2009_p5,[UU 25/2009 Pasal 5],UU25_2009_p5
+3 Dense + LM pretrained,q063,Seorang warga bingung apakah layanan pengurusan dokumen termasuk pelayanan publik. Bagian mana dari UU 25/2009 yang perlu dilihat?,situation,UU25_2009_p5,"Untuk mengetahui apakah layanan pengurusan dokumen termasuk pelayanan publik, kita perlu mempertimbangkan ayat (1) dari Pasal 2 dari Undang-undang Nomor 25 Tahun 2009 tentang Pelayanan Publik.
+
+Ayat (1) menyatakan bahwa ""pelayanan publik"" adalah kegiatan atau rangkaian kegiatan dalam rangka pemenuhan kebutuhan pelayanan sesuai dengan peraturan perundangundangan bagi setiap warga negara dan penduduk atas barang, jasa, dan/atau pelayanan administratif yang disediakan oleh penyelenggara pelayanan publik.""
+
+Jadi, jika layanan pengurusan dokumen dapat dianggap sebagai pelayanan publik karena mengandung elemen pelayanan administratif, maka ayat (1) dari Pasal 2 bisa menjadi sumber utama untuk menentukan apakah layanan tersebut termasuk dalam p",
+3 Dense + LM pretrained,q071,"Warga mempertanyakan mengapa layanan pemerintah memiliki beberapa jenis layanan barang, jasa, dan administrasi. Pasal mana yang menjelaskan cakupannya?",situation,UU25_2009_p5,"Pasal yang memperkenalkan cakupan layanan pemerintah yang melibatkan berbagai jenis layanan seperti barang, jasa, dan administrasi adalah:
+
+**UU 14/2008 Pasal 3**
+
+Dalam pasal tersebut, Undang-Undang menyatakan tujuan utama dari undang-undang ini adalah:
+
+a. Menjamin hak warga negara untuk mengetahui rencana pembuatan kebijakan publik, program kebijakan publik, dan proses pengambilan keputusan publik, serta alasan pengambilan suatu keputusan publik;
+
+b. Mendorong partisipasi masyarakat dalam proses pengambilan kebijakan publik;
+
+c. Mengingatkan pentingnya peran aktif masyarakat dalam pengambilan kebijakan publik dan pengelolaan Badan Publik yang baik;
+
+d. Mewujudkan penyelenggaraan negara yang baik, yaitu",UU14_2008_p3
+3 Dense + LM pretrained,q028,Apa asas yang disebut dalam UU Pelindungan Data Pribadi?,explanation,UU27_2022_p3,UU 27/2022 Pasal 13.,UU27_2022_p13
+3 Dense + LM pretrained,q073,Saya ingin mengetahui asas kerahasiaan dan pertanggungjawaban dalam pelindungan data. Pasal mana yang perlu dibaca?,situation,UU27_2022_p3,"Pasal yang perlu dibaca adalah:
+
+**UU 27/2022 Pasal 35**
+
+Dalam Pasal 35 tersebut, pengendali Data Pribadi wajib melindungi dan memastikan keamanan Data Pribadi yang diprosesnya, dengan melakukan:
+a. penyusunan dan penerapan langkah teknis ""operasional"" untuk melindungi Data Pribadi dari gangguan pemrosesan Data Pribadi yang bertentangan dengan ketentuan peraturan perundang-undangan;
+b. penentuan tingkat keamanan Data Pribadi dengan memperhatikan sifat dan risiko dari Data Pribadi yang harus dilindungi dalam pemrosesan Data Pribadi.",UU27_2022_p35
+3 Dense + LM pretrained,q032,Apa kewajiban badan publik terkait arsip dan dokumentasi informasi?,explanation,UU14_2008_p8,"Pasal 9 ayat (1): Setiap Badan Publik wajib mengumumkan Informasi Publik secara berkala.
+
+Pasal 9 ayat (2): Informasi Publik sebagaimana dimaksud pada ayat (1) meliputi:
+
+a. informasi yang berkaitan dengan Badan Publik;
+
+b. informasi mengenai kegiatan dan kinerja Badan Publik terkait;
+
+c. informasi mengenai laporan keuangan; dan/atau
+
+d. informasi lain yang diatur dalam peraturan perundang-undangan.
+
+Pasal 9 ayat (3): Kewajiban memberikan dan menyampaikan Informasi Publik sebagaimana dimaksud pada ayat (2) dilakukan paling singkat 6 (enam) bulan sekali.
+
+Pasal 9 ayat (4): Kewajiban menyebarluaskan Informasi Publik sebagaimana dimaksud pada ayat (1),",
+3 Dense + LM pretrained,q059,Petugas menyimpan dokumen informasi publik tanpa mengikuti aturan pengarsipan. Pasal mana yang terkait?,situation,UU14_2008_p8,"Pasal yang terkait adalah:
+
+[PP 61/2010 Pasal 14, ayat (1)]
+
+Petugas melanggar aturan yang dimaksud dalam ayat (1), yang mencakup beberapa hal seperti penyediaan, penyimpanan, pendokumentasian, dan pengamanan informasi, serta pelayanan informasi sesuai dengan aturan yang berlaku. Oleh karena itu, petugas tersebut mungkin juga melanggar Pasal 14, ayat (1).",PP61_2010_p14
+3 Dense + LM pretrained,q036,Apa aturan mengenai informasi yang dapat mengungkap akta otentik pribadi atau wasiat?,explanation,PP61_2010_p8,[UU 14/2008 Pasal 17],UU14_2008_p17
+3 Dense + LM pretrained,q012,Bagaimana penetapan klasifikasi informasi yang dikecualikan didokumentasikan?,explanation,PP61_2010_p4,"Pasal 4 dari Peraturan Pemerintah Nomor 61 tahun 2010 Pasal 4 menjelaskan bagaimana pengklasifikasian Informasi yang dikecualikan harus ditetapkan. Secara umum, peraturan tersebut memberikan beberapa elemen penting:
+
+1. Surat penetapan klasifikasi harus mencakup:
+   a. Jenis klasifikasi Informasi yang Dikecualikan
+   b. Identitas pejabat PPID yang menetapkan
+   c. Badan Publik, termasuk unit kerja pejabat yang menetapkan
+   d. Jangka waktu peneceahan
+   e. Alasan pengecualian
+   f. Tempat dan tanggal penetapan
+
+2. Surat penetapan klasifikasi harus menerangkan secara detail apa saja Informasi yang dikecualikan dan mengapa mereka dikecualikan.
+
+Dengan demikian, penetapan klasifikasi Inform",
+3 Dense + LM pretrained,q046,Sebuah instansi menetapkan klasifikasi informasi hanya lewat pesan lisan. Bagaimana penetapannya seharusnya?,situation,PP61_2010_p4,"Sebagai asisten informasi hukum, saya mampu membantu Anda menjawab pertanyaan tersebut. Berikut adalah penjelasan:
+
+1. Pertama, kita perlu memahami bahwa Pasal 4 dari Peraturan Pemerintah Nomor 61 tahun 2010 tentang Kepatuhan Informasi Publik (PP 61/2010) memberikan aturan tentang pengklasifikasian informasi publik. Secara spesifik, Pasal 4 menyebutkan bahwa pengklasifikasian harus dilakukan secara formal dan menggunakan surat penetapan klasifikasi.
+
+2. Menurut Pasal 4 ayat (1), surat penetapan klasifikasi harus mencakup beberapa elemen penting seperti identitas pejabat yang menetapkan, waktu penuh ketelitian, dan alasan pengecualian. 
+
+3. Selanjutnya, Pasal 4 ayat (2) memberikan detail lebih",
+3 Dense + LM pretrained,q026,Apa hak Subjek Data Pribadi terkait pembatasan pemrosesan data?,explanation,UU27_2022_p11,Pasal 11 [UU 27/2022] menyatakan bahwa Subjek Data Pribadi berhak menunda atau membatasi pemrosesan Data Pribadi secara sesuai dengan ketentuan peraturan perundang-undangan.,
+3 Dense + LM pretrained,q057,Saya ingin membatasi pemrosesan data pribadi saya untuk sementara. Apakah UU PDP membahas hal itu?,situation,UU27_2022_p11,"Ya, UU 27/2022 Pasal 41 melaporkan bahwa pengendali data pribadi harus melakukan penundaan dan pembatasan pemrosesan data pribadi. Hal ini disebutkan sebagai ""penundaan dan pembatasan pemrosesan Data Pribadi"" dan diperlukan jika ada beberapa kondisi seperti pencapaian tujuan pemrosesan, kebutuhan untuk mematuhi peraturan perundang-undangan, atau jika ada permintaan dari subjek data pribadi.",UU27_2022_p41
+3 Dense + LM pretrained,q101,Bagaimana cara menghitung bunga majemuk investasi?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+3 Dense + LM pretrained,q114,Bagaimana cara mengajukan klaim asuransi perjalanan?,out-of-scope,,"Dengan menggunakan Pasal 36 dari Undang-Undang Nomor 14 tahun 2008 tentang Penyelenggara Asuransi Umum, Anda harus melapor klaim tersebut dalam jangka waktu paling lambat 30 hari kerja setelah ditemukannya alasan sebagaimana dimaksud dalam Pasal 35 ayat (1). Selanjutnya, atasan pejabat yang bertugas akan memberikan tanggapan atas keberatan yang diajukan oleh pemohon informasi publik dalam jangka waktu paling lambat 30 hari kerja sejak diterimanya keberatan secara tertulis.",
+3 Dense + LM pretrained,q115,Siapa penemu telepon dan kapan ditemukan?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 25/2009, PP 61/2010, UU 27/2022, dan UU 14/2008.",
+3 Dense + LM pretrained,q100,Apa penyebab gempa bumi tektonik?,out-of-scope,,"Pasal 17 UU 14/2008 Pasal 17. Setiap Badan Publik wajib membuka akses bagi setia p Pemohon Informasi Publik untuk mendapatkan Informasi Publik, kecuali:
+
+a. Informasi Publik yang apabila dibuka dan diberikan kepada Pemohon Informasi Publik dapat menghambat proses penegakan hukum, yaitu informasi yang dapat:
+1. menghambat ... 
+2. menghambat proses penyelidikan dan penyidikan suatu tindak pidana;
+3. mengungkapkan identitas informan, pelapor, saksi , dan/atau korban yang mengetahui adanya tindak pidana;
+4. mengungkapkan data intelijen kriminal dan rencana-rencana yang berhubungan dengan pencegahan dan penanganan segala bentuk kejahatan transnasional;
+5. membahayakan",UU14_2008_p17
+3 Dense + LM pretrained,q110,Berapa harga emas per gram hari ini?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+3 Dense + LM pretrained,q108,Tolong terjemahkan kalimat ini ke bahasa Jepang.,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 27/2022.",
+3b Dense fine-tuned + LM pretrained,q037,Apa prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009?,explanation,UU25_2009_p4,"Prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009 adalah:
+
+(1) Pelayanan publik adalah kegiatan atau rangkaian kegiatan dalam rangka pemenuhan kebutuhan pelayanan sesuai dengan peraturan perundangundangan bagi setiap warga negara dan penduduk atas barang, jasa, dan/atau pelayanan administratif yang disediakan oleh penyelenggara pelayanan publik.
+
+(2) Penyelenggara pelayanan publik yang selanjutnya disebut Penyelenggara adalah setiap institusi penyelenggara negara, korporasi, lembaga independen yang dibentuk berdasarkan undangundang untuk kegiatan pelayanan publik, dan badan hukum lain yang dibentuk semata-mata untuk kegiatan pelayanan publik.
+
+(3) Atasan satuan kerja penyelengg",
+3b Dense fine-tuned + LM pretrained,q065,Warga mempertanyakan prinsip kesamaan hak saat mengakses layanan pemerintah. Pasal mana yang memuat asas tersebut?,situation,UU25_2009_p4,"Pasal 3 dari Undang-Undang Nomor 14 Tahun 2008, yang membahas hak-warga-negara atas informasi publik, melibatkan prinsip kesamaan hak.",
+3b Dense fine-tuned + LM pretrained,q009,Informasi seperti apa yang wajib diumumkan secara berkala?,explanation,UU14_2008_p9,"[UU 14/2008 Pasal 9, ayat (1)]",UU14_2008_p9
+3b Dense fine-tuned + LM pretrained,q029,Dalam keadaan apa UU PDP berlaku terhadap pihak yang melakukan perbuatan hukum?,explanation,UU27_2022_p2,UU 27/2022 Pasal 2 (1) a. dan b.,UU27_2022_p2
+3b Dense fine-tuned + LM pretrained,q007,Apakah badan publik boleh menolak semua permintaan informasi?,explanation,UU14_2008_p6,[UU 14/2008 Pasal 49 ayat (2)] (b. menguatkan putusan Komisi Informasi dan/atau memerintahkan Badan Publik: 2. menolak memberikan sebagian atau seluruh informasi yang diminta oleh Pemohon Informasi Publik.),UU14_2008_p49
+3b Dense fine-tuned + LM pretrained,q044,Badan publik menolak memberikan dokumen karena termasuk informasi yang dikecualikan. Apakah penolakan selalu dilarang?,situation,UU14_2008_p6,"Ya, penolakan selalu dilarang. Menurut Pasal 47 ayat (1), jika dokumen tersebut termasuk dalam informasi yang dikecualikan, maka putusan Komisi Informasi akan memerintahkan pejabat pengelola informasi dan dokumentasi untuk menjalankan kewajibannya sesuai dengan undang-undang. Ini melambangkan bahwa penolakan selalu dilarang jika dokumen tersebut termasuk dalam informasi yang dikecualikan.",
+3b Dense fine-tuned + LM pretrained,q017,Apa saja ruang lingkup pelayanan publik?,explanation,UU25_2009_p5,[UU 25/2009 Pasal 5],UU25_2009_p5
+3b Dense fine-tuned + LM pretrained,q063,Seorang warga bingung apakah layanan pengurusan dokumen termasuk pelayanan publik. Bagian mana dari UU 25/2009 yang perlu dilihat?,situation,UU25_2009_p5,"Untuk mengetahui apakah layanan pengurusan dokumen termasuk pelayanan publik, kita perlu mempertimbangkan ayat (1) dari Pasal 2 UU 25/2009. Ayat (1) menyatakan bahwa ""Pelayanan publik adalah kegiatan atau rangkaian kegiatan dalam rangka pemenuhan kebutuhan pelayanan sesuai dengan peraturan perundangundangan bagi setiap warga negara dan penduduk atas barang, jasa, dan/atau pelayanan administratif yang disediakan oleh penyelenggara pelayanan publik.""
+
+Jadi, jika Anda mencari informasi mengenai apakah layanan pengurusan dokumen dapat dikategorikan sebagai pelayanan publik, maka Anda harus merujuk pada ayat (1) dari Pasal 2 UU 25/2009. Ayat (1) tersebut menjelaskan definisi umum dari apa yang dimaksud",
+3b Dense fine-tuned + LM pretrained,q071,"Warga mempertanyakan mengapa layanan pemerintah memiliki beberapa jenis layanan barang, jasa, dan administrasi. Pasal mana yang menjelaskan cakupannya?",situation,UU25_2009_p5,"Pasal yang menjelaskan cakupan layanan pemerintah adalah [UU 25/2009 Pasal 5], spesifiknya ayat (2). Ayat (2) menyatakan ruang lingkup pelayanan publik yang mencakup berbagai aspek kehidupan seperti pendidikan, pekerjaan dan usaha, tempat tinggal, komunikasi dan informasi, lingkungan hidup, kesehatan, jaminan sosial, energi, perbankan, perhubungan, sumber daya alam, dan sektor strategis lainnya. Ini menunjukkan bahwa pelayanan publik meliputi berbagai aspek kehidupan yang penting bagi warga, dan itu mencakup semua aspek kehidupan yang diatur dalam peraturan perundang-undangan.",UU25_2009_p5
+3b Dense fine-tuned + LM pretrained,q028,Apa asas yang disebut dalam UU Pelindungan Data Pribadi?,explanation,UU27_2022_p3,"UU 27/2022 Pasal 38, 58, 47.",UU27_2022_p38
+3b Dense fine-tuned + LM pretrained,q073,Saya ingin mengetahui asas kerahasiaan dan pertanggungjawaban dalam pelindungan data. Pasal mana yang perlu dibaca?,situation,UU27_2022_p3,"Pasal yang perlu dibaca adalah:
+
+**UU 27/2022 Pasal 35**
+
+Dalam Pasal 35 tersebut, pengendali Data Pribadi wajib melindungi dan memastikan keamanan Data Pribadi yang diprosesnya, dengan melakukan:
+a. penyusunan dan penerapan langkah teknis ""operasional"" untuk melindungi Data Pribadi dari gangguan pemrosesan Data Pribadi yang bertentangan dengan ketentuan peraturan perundang-undangan;
+b. penentuan tingkat keamanan Data Pribadi dengan memperhatikan sifat dan risiko dari Data Pribadi yang harus dilindungi dalam pemrosesan Data Pribadi.",UU27_2022_p35
+3b Dense fine-tuned + LM pretrained,q032,Apa kewajiban badan publik terkait arsip dan dokumentasi informasi?,explanation,UU14_2008_p8,"Pasal 9 ayat (1): Setiap Badan Publik wajib mengumumkan Informasi Publik secara berkala.
+
+Pasal 9 ayat (2): Informasi Publik sebagaimana dimaksud pada ayat (1) meliputi:
+
+a. informasi yang berkaitan dengan Badan Publik;
+
+b. informasi mengenai kegiatan dan kinerja Badan Publik terkait;
+
+c. informasi mengenai laporan keuangan; dan/atau
+
+d. informasi lain yang diatur dalam peraturan perundang-undangan.
+
+Pasal 9 ayat (3): Kewajiban memberikan dan menyampaikan Informasi Publik sebagaimana dimaksud pada ayat (2) dilakukan paling singkat 6 (enam) bulan sekali.
+
+Pasal 9 ayat (4): Kewajiban menyebarluaskan Informasi Publik sebagaimana dimaksud pada ayat (1),",
+3b Dense fine-tuned + LM pretrained,q059,Petugas menyimpan dokumen informasi publik tanpa mengikuti aturan pengarsipan. Pasal mana yang terkait?,situation,UU14_2008_p8,Pasal 19 [UU 14/2008],
+3b Dense fine-tuned + LM pretrained,q036,Apa aturan mengenai informasi yang dapat mengungkap akta otentik pribadi atau wasiat?,explanation,PP61_2010_p8,[UU 14/2008 Pasal 17],UU14_2008_p17
+3b Dense fine-tuned + LM pretrained,q012,Bagaimana penetapan klasifikasi informasi yang dikecualikan didokumentasikan?,explanation,PP61_2010_p4,"Pasal 4 dari Peraturan Pemerintah Nomor 61 tahun 2010 Pasal 4 menjelaskan bagaimana pengklasifikasian Informasi yang dikecualikan harus ditetapkan. Secara umum, peraturan tersebut memberikan beberapa elemen penting:
+
+1. Surat penetapan klasifikasi harus mencakup:
+   a. Jenis klasifikasi Informasi yang Dikecualikan
+   b. Identitas pejabat PPID yang menetapkan
+   c. Badan Publik, termasuk unit kerja pejabat yang menetapkan
+   d. Jangka waktu peneceahan
+   e. Alasan pengecualian
+   f. Tempat dan tanggal penetapan
+
+2. Surat penetapan klasifikasi harus menerangkan secara detail apa saja Informasi yang dikecualikan dan mengapa mereka dikecualikan.
+
+Dengan demikian, penetapan klasifikasi Inform",
+3b Dense fine-tuned + LM pretrained,q046,Sebuah instansi menetapkan klasifikasi informasi hanya lewat pesan lisan. Bagaimana penetapannya seharusnya?,situation,PP61_2010_p4,"Sebagai asisten informasi hukum, saya mampu membantu Anda menjawab pertanyaan tersebut. Berikut adalah penjelasan:
+
+1. Pertama, kita perlu memahami bahwa Pasal 4 dari Peraturan Pemerintah Nomor 61 tahun 2010 tentang Kepatuhan Informasi Publik (PP 61/2010) memberikan aturan tentang pengklasifikasian informasi publik. Secara spesifik, Pasal 4 menyebutkan bahwa pengklasifikasian harus dilakukan secara formal dan menggunakan surat penetapan klasifikasi.
+
+2. Menurut Pasal 4 ayat (1), surat penetapan klasifikasi harus mencakup beberapa elemen penting seperti identitas pejabat yang menetapkan, waktu penuh ketelitian, dan alasan pengecualian. 
+
+3. Selanjutnya, Pasal 4 ayat (2) memberikan detail lebih",
+3b Dense fine-tuned + LM pretrained,q026,Apa hak Subjek Data Pribadi terkait pembatasan pemrosesan data?,explanation,UU27_2022_p11,Pasal 11 [UU 27/2022],
+3b Dense fine-tuned + LM pretrained,q057,Saya ingin membatasi pemrosesan data pribadi saya untuk sementara. Apakah UU PDP membahas hal itu?,situation,UU27_2022_p11,"Ya, UU No. 27/2022 tentang Penyandang Disabilitas mendiskripsikan hak subjek data pribadi untuk menunda atau membatasi pemrosesan data pribadi. Hal ini mencerminkan prinsip kebebasan individu atas penggunaan data mereka sendiri. Namun, detailnya masih harus dikaji lebih lanjut karena ada beberapa aspek yang belum jelas seperti bagaimana prosedur dan batasan yang dapat ditimbulkan oleh peraturan tersebut.",
+3b Dense fine-tuned + LM pretrained,q101,Bagaimana cara menghitung bunga majemuk investasi?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+3b Dense fine-tuned + LM pretrained,q114,Bagaimana cara mengajukan klaim asuransi perjalanan?,out-of-scope,,"Dalam konteks yang Anda jelaskan, ada beberapa peraturan yang relevan:
+
+1. [PP 61/2010 Pasal 22] - Ini mencakup prinsip umum tentang pengundulan dan penempatan peraturan, tetapi tidak spesifik tentang klaim asuransi perjalanan.
+
+2. [UU 25/2009 Pasal 42] - Mengatur tentang pengaduan dan klaim asuransi, termasuk detail seperti waktu dan cara mengajukan klaim.
+
+3. [UU 14/2008 Pasal 36] - Menyatakan prinsip umum tentang keberatan dan tanggapan dari pejabat, namun tidak spesifik tentang klaim asuransi perjalanan.
+
+Jadi, jika Anda ingin mengajukan klaim asuransi perjalanan, Anda harus melanjutkan prosedur yang terkait dengan [UU 25/2009 Pas","PP61_2010_p22, UU25_2009_p42, UU14_2008_p36"
+3b Dense fine-tuned + LM pretrained,q115,Siapa penemu telepon dan kapan ditemukan?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 25/2009, PP 61/2010, UU 27/2022, dan UU 14/2008.",
+3b Dense fine-tuned + LM pretrained,q100,Apa penyebab gempa bumi tektonik?,out-of-scope,,Pasal 25/2009 Pasal 12,
+3b Dense fine-tuned + LM pretrained,q110,Berapa harga emas per gram hari ini?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+3b Dense fine-tuned + LM pretrained,q108,Tolong terjemahkan kalimat ini ke bahasa Jepang.,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 27/2022.",
+4a Dense + LM adapter,q037,Apa prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009?,explanation,UU25_2009_p4,"Prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009 adalah:
+
+1. Mengalokasikan anggaran yang memadai melalui anggaran pendapatan dan belanja negara atau daerah.
+2. Memperdahulukan kualitas pelayanan publik.
+3. Melarang penggunaan anggaran pelayanan publik untuk tujuan lain.",
+4a Dense + LM adapter,q065,Warga mempertanyakan prinsip kesamaan hak saat mengakses layanan pemerintah. Pasal mana yang memuat asas tersebut?,situation,UU25_2009_p4,Pasal 3 dari Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik.,
+4a Dense + LM adapter,q009,Informasi seperti apa yang wajib diumumkan secara berkala?,explanation,UU14_2008_p9,[UU 14/2008 Pasal 9],UU14_2008_p9
+4a Dense + LM adapter,q029,Dalam keadaan apa UU PDP berlaku terhadap pihak yang melakukan perbuatan hukum?,explanation,UU27_2022_p2,"UU 27/2022 Pasal 2 (1): a. yang berada di wilayah hukum Negara Republik Indonesia; dan b. diluar wilayah hukum Negara Republik Indonesia, yang memiliki akibat hukum:
+
+Jawaban: UU 27/2022 Pasal 2 (1) menyebutkan bahwa UU PDP berlaku untuk setiap orang, badan publik, dan organisasi internasional yang melakukan perbuatan hukum. Oleh karena itu, jika seseorang melakukan perbuatan hukum di wilayah hukum Indonesia, maka UU PDP akan berlaku. Namun, jika seseorang melakukan perbuatan hukum di luar wilayah hukum Indonesia, UU PDP tidak berlaku.",UU27_2022_p2
+4a Dense + LM adapter,q007,Apakah badan publik boleh menolak semua permintaan informasi?,explanation,UU14_2008_p6,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4a Dense + LM adapter,q044,Badan publik menolak memberikan dokumen karena termasuk informasi yang dikecualikan. Apakah penolakan selalu dilarang?,situation,UU14_2008_p6,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4a Dense + LM adapter,q017,Apa saja ruang lingkup pelayanan publik?,explanation,UU25_2009_p5,"Ruang Lingkup Pelayanan Publik:
+
+1. Pendidikan, Pengajaran, Pekerjaan dan Usaha
+2. Tempat Tinggal, Komunikasi dan Informasi
+3. Lingkungan Hidup, Kesehatan, Jaminan Sosial
+4. Energi, Perbankan, Perhubungan
+5. Sumber Daya Alam, Pariwisata
+6. Strategis Lainnya
+
+Peraturan: [UU 25/2009 Pasal 5]",UU25_2009_p5
+4a Dense + LM adapter,q063,Seorang warga bingung apakah layanan pengurusan dokumen termasuk pelayanan publik. Bagian mana dari UU 25/2009 yang perlu dilihat?,situation,UU25_2009_p5,Pasal 1.,
+4a Dense + LM adapter,q071,"Warga mempertanyakan mengapa layanan pemerintah memiliki beberapa jenis layanan barang, jasa, dan administrasi. Pasal mana yang menjelaskan cakupannya?",situation,UU25_2009_p5,Pasal [UU 25/2009 Pasal 29] menjelaskan bahwa pihak yang menyediakan layanan harus memberikan pelayanan dengan perlakuan khusus kepada anggota masyarakat tertentu sesuai dengan peraturan perundang-undangan.,UU25_2009_p29
+4a Dense + LM adapter,q028,Apa asas yang disebut dalam UU Pelindungan Data Pribadi?,explanation,UU27_2022_p3,UU 27/2022 Pasal 13.,UU27_2022_p13
+4a Dense + LM adapter,q073,Saya ingin mengetahui asas kerahasiaan dan pertanggungjawaban dalam pelindungan data. Pasal mana yang perlu dibaca?,situation,UU27_2022_p3,UU 27/2022 Pasal 35.,UU27_2022_p35
+4a Dense + LM adapter,q032,Apa kewajiban badan publik terkait arsip dan dokumentasi informasi?,explanation,UU14_2008_p8,"Pasal 9 ayat (1): Setiap Badan Publik wajib mengumumkan Informasi Publik secara berkala.
+Pasal 9 ayat (2): Informasi Publik sebagaimana dimaksud pada ayat (1) meliputi: a. informasi yang berkaitan dengan Badan Publik; b. informasi mengenai kegiatan dan kinerja Badan Publik terkait; c. informasi mengenai laporan keuangan; dan/atau d. informasi lain yang diatur dalam peraturan perundang-undangan.
+Pasal 9 ayat (3): Kewajiban memberikan dan menyampaikan Informasi Publik sebagaimana dimaksud pada ayat (2), dilakukan paling singkat 6 (enam) bulan sekali.
+Pasal 9 ayat (4): Kewajiban menyebarluaskan Informasi Publik sebagaimana dimaksud pada ayat (1), dis",
+4a Dense + LM adapter,q059,Petugas menyimpan dokumen informasi publik tanpa mengikuti aturan pengarsipan. Pasal mana yang terkait?,situation,UU14_2008_p8,Pasal 14 ayat (1) dan (2) [PP 61/2010],
+4a Dense + LM adapter,q036,Apa aturan mengenai informasi yang dapat mengungkap akta otentik pribadi atau wasiat?,explanation,PP61_2010_p8,[UU 14/2008 Pasal 17],UU14_2008_p17
+4a Dense + LM adapter,q012,Bagaimana penetapan klasifikasi informasi yang dikecualikan didokumentasikan?,explanation,PP61_2010_p4,"Pasal 4 dari Peraturan Pemerintah Nomor 61 tahun 2010 tentang Kepatuhan Informasi Publik menjelaskan bagaimana pengklasifikasian Informasi yang dikecualikan harus ditetapkan. Secara umum, peraturan tersebut memberikan beberapa elemen penting:
+
+1. Surat penetapan klasifikasi harus mencakup:
+   a. Jenis klasifikasi Informasi yang Dikecualikan,
+   b. Identitas pejabat PPID yang menetapkan,
+   c. Badan Publik, termasuk unit kerja pejabat yang menetapkan,
+   d. Jangka waktu peneceaan,
+   e. Alasan pengecualian,
+   f. Tempat dan tanggal penetapan.
+
+2. Surat penetapan harus disampaikan secara formal melalui surat penetapannya.
+
+3. Surat penetapan harus disampaikan kepada semua pihak yang mungkin mendapat man",
+4a Dense + LM adapter,q046,Sebuah instansi menetapkan klasifikasi informasi hanya lewat pesan lisan. Bagaimana penetapannya seharusnya?,situation,PP61_2010_p4,"Pasal 4 [PP 61/2010] mewajibkan pengklasifikasian Informasi harus mencakup beberapa elemen penting seperti identitas pejabat, alasan pengecualian, dan tempat dan tanggal penetapan. Pertanyaan Anda mengandalkan bahwa informasi tersebut diterbitkan secara fisik melalui surat. Namun, jika informasi tersebut diterbitkan secara fisik melalui surat, maka penetapan klasifikasi tersebut juga harus mencakup elemen-elemen yang disebutkan dalam Pasal 4. Oleh karena itu, penetapan klasifikasi informasi yang diterbitkan secara fisik melalui surat harus mencakup elemen-elemen yang disebutkan dalam Pasal 4.",
+4a Dense + LM adapter,q026,Apa hak Subjek Data Pribadi terkait pembatasan pemrosesan data?,explanation,UU27_2022_p11,Pasal 11 [UU 27/2022]: Subjek Data Pribadi berhak menunda atau membatasi pemrosesan Data Pribadi secara sesual dengan tujuan pemrosesan Data Pribadi.,
+4a Dense + LM adapter,q057,Saya ingin membatasi pemrosesan data pribadi saya untuk sementara. Apakah UU PDP membahas hal itu?,situation,UU27_2022_p11,"Ya, UU PDP melindungi hak Anda untuk membatasi pemrosesan data pribadi. Dalam Pasal 11, disebutkan bahwa Subjek Data Pribadi memiliki hak untuk membatasi pemrosesan Data Pribadi.",
+4a Dense + LM adapter,q101,Bagaimana cara menghitung bunga majemuk investasi?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4a Dense + LM adapter,q114,Bagaimana cara mengajukan klaim asuransi perjalanan?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4a Dense + LM adapter,q115,Siapa penemu telepon dan kapan ditemukan?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4a Dense + LM adapter,q100,Apa penyebab gempa bumi tektonik?,out-of-scope,,Pasal 17 UU 14/2008.,
+4a Dense + LM adapter,q110,Berapa harga emas per gram hari ini?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4a Dense + LM adapter,q108,Tolong terjemahkan kalimat ini ke bahasa Jepang.,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4 Dense fine-tuned + LM adapter (usulan),q037,Apa prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009?,explanation,UU25_2009_p4,"Prinsip penyelenggaraan pelayanan publik yang disebut dalam UU 25/2009 adalah:
+
+1. Kepatuhan terhadap peraturan perundangundangan.
+2. Adopsi sistematis dari peraturan perundangundangan.
+3. Implementasi secara efektif dan efisien.
+4. Keberlanjutan dan konsistensi dalam proses pengambilan keputusan.
+5. Transparansi dan akuntabilitas dalam operasi.
+6. Efisiensi dan efektivitas dalam penggunaan sumber daya.
+7. Mutu dan kualitas tinggi dalam layanan yang diberikan kepada masyarakat.
+8. Kesesuaian dengan tujuan utama pelayanan publik.
+9. Pelaksanaan secara profesional dan etis.
+10. Penggunaan alat teknologi informasi dan komunikasi yang dapat meningkatkan efisiensi dan efektivitas.",
+4 Dense fine-tuned + LM adapter (usulan),q065,Warga mempertanyakan prinsip kesamaan hak saat mengakses layanan pemerintah. Pasal mana yang memuat asas tersebut?,situation,UU25_2009_p4,Pasal 3 dari Undang-Undang Nomor 14 Tahun 2008.,
+4 Dense fine-tuned + LM adapter (usulan),q009,Informasi seperti apa yang wajib diumumkan secara berkala?,explanation,UU14_2008_p9,[UU 14/2008 Pasal 9],UU14_2008_p9
+4 Dense fine-tuned + LM adapter (usulan),q029,Dalam keadaan apa UU PDP berlaku terhadap pihak yang melakukan perbuatan hukum?,explanation,UU27_2022_p2,"UU 27/2022 Pasal 2 (1): a. yang berada di wilayah hukum Negara Republik Indonesia; dan b. diluar wilayah hukum Negara Republik Indonesia, yang memiliki akibat hukum:
+
+Jawaban: UU 27/2022 Pasal 2 (1) menyebutkan bahwa UU PDP berlaku untuk setiap orang, badan publik, dan organisasi internasional yang melakukan perbuatan hukum. Oleh karena itu, jika seseorang melakukan perbuatan hukum di wilayah hukum Indonesia, maka UU PDP akan berlaku. Namun, jika seseorang melakukan perbuatan hukum di luar wilayah hukum Indonesia, UU PDP tidak berlaku.",UU27_2022_p2
+4 Dense fine-tuned + LM adapter (usulan),q007,Apakah badan publik boleh menolak semua permintaan informasi?,explanation,UU14_2008_p6,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4 Dense fine-tuned + LM adapter (usulan),q044,Badan publik menolak memberikan dokumen karena termasuk informasi yang dikecualikan. Apakah penolakan selalu dilarang?,situation,UU14_2008_p6,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4 Dense fine-tuned + LM adapter (usulan),q017,Apa saja ruang lingkup pelayanan publik?,explanation,UU25_2009_p5,"Ruang Lingkup Pelayanan Publik:
+
+1. Pendidikan, pengajaran, pekerjaan dan usaha, tempat tinggal, komunikasi dan informasi, lingkungan hidup, kesehatan, jaminan sosial, energi, perbankan, perhubungan, sumber daya alam, pariwisata, dan sektor strategis lainnya.
+
+2. Pelayanan barang publik meliputi pengadaan dan penyaluran barang publik yang dilakukan oleh instansi pemerintah dan badan usaha yang modal pendirinya sebagian atau seluruhnya berasal dari anggaran pendapatan dan belanja negara dan/atau daerah.",
+4 Dense fine-tuned + LM adapter (usulan),q063,Seorang warga bingung apakah layanan pengurusan dokumen termasuk pelayanan publik. Bagian mana dari UU 25/2009 yang perlu dilihat?,situation,UU25_2009_p5,"Ayat (1) dari UU 25/2009 menyatakan bahwa ""Pelayanan publik adalah kegiatan atau rangkaian kegiatan dalam rangka pemenuhan kebutuhan pelayanan sesuai dengan peraturan perundangundangan bagi setiap warga negara dan penduduk atas barang, jasa, dan/atau pelayanan administratif yang disediakan oleh penyelenggara pelayanan publik."" Oleh karena itu, jika Anda merasa bahwa layanan pengurusan dokumen tersebut memenuhi definisi pelayanan publik, maka dapat dikategorikan sebagai pelayanan publik.",
+4 Dense fine-tuned + LM adapter (usulan),q071,"Warga mempertanyakan mengapa layanan pemerintah memiliki beberapa jenis layanan barang, jasa, dan administrasi. Pasal mana yang menjelaskan cakupannya?",situation,UU25_2009_p5,"Pasal [UU 25/2009 Pasal 29] menjelaskan bahwa ruang lingkup pelayanan publik meliputi banyak hal, termasuk pendidikan, pengajaran, pekerjaan dan usaha, tempat tinggal, komunikasi dan informasi, lingkungan hidup, kesehatan, jaminan sosial, energi, perbankan, perhubungan, sumber daya alam, pariwisata, dan sektor strategis lainnya.",UU25_2009_p29
+4 Dense fine-tuned + LM adapter (usulan),q028,Apa asas yang disebut dalam UU Pelindungan Data Pribadi?,explanation,UU27_2022_p3,"UU 27/2022 Pasal 38, 58, 47.",UU27_2022_p38
+4 Dense fine-tuned + LM adapter (usulan),q073,Saya ingin mengetahui asas kerahasiaan dan pertanggungjawaban dalam pelindungan data. Pasal mana yang perlu dibaca?,situation,UU27_2022_p3,UU 27/2022 Pasal 35.,UU27_2022_p35
+4 Dense fine-tuned + LM adapter (usulan),q032,Apa kewajiban badan publik terkait arsip dan dokumentasi informasi?,explanation,UU14_2008_p8,"Pasal 9 ayat (1): Setiap Badan Publik wajib mengumumkan Informasi Publik secara berkala.
+Pasal 9 ayat (2): Informasi Publik sebagaimana dimaksud pada ayat (1) meliputi: a. informasi yang berkaitan dengan Badan Publik; b. informasi mengenai kegiatan dan kinerja Badan Publik terkait; c. informasi mengenai laporan keuangan; dan/atau d. informasi lain yang diatur dalam peraturan perundang-undangan.
+Pasal 9 ayat (3): Kewajiban memberikan dan menyampaikan Informasi Publik sebagaimana dimaksud pada ayat (2), dilakukan paling singkat 6 (enam) bulan sekali.
+Pasal 9 ayat (4): Kewajiban menyebarluaskan Informasi Publik sebagaimana dimaksud pada ayat (1), dis",
+4 Dense fine-tuned + LM adapter (usulan),q059,Petugas menyimpan dokumen informasi publik tanpa mengikuti aturan pengarsipan. Pasal mana yang terkait?,situation,UU14_2008_p8,Pasal 19 [UU 14/2008],
+4 Dense fine-tuned + LM adapter (usulan),q036,Apa aturan mengenai informasi yang dapat mengungkap akta otentik pribadi atau wasiat?,explanation,PP61_2010_p8,[UU 14/2008 Pasal 17],UU14_2008_p17
+4 Dense fine-tuned + LM adapter (usulan),q012,Bagaimana penetapan klasifikasi informasi yang dikecualikan didokumentasikan?,explanation,PP61_2010_p4,"Pasal 4 dari Peraturan Pemerintah Nomor 61 tahun 2010 tentang Kepatuhan Informasi Publik menjelaskan bagaimana pengklasifikasian Informasi yang dikecualikan harus ditetapkan. Secara umum, peraturan tersebut memberikan beberapa elemen penting:
+
+1. Surat penetapan klasifikasi harus mencakup:
+   a. Jenis klasifikasi Informasi yang Dikecualikan,
+   b. Identitas pejabat PPID yang menetapkan,
+   c. Badan Publik, termasuk unit kerja pejabat yang menetapkan,
+   d. Jangka waktu peneceaan,
+   e. Alasan pengecualian,
+   f. Tempat dan tanggal penetapan.
+
+2. Surat penetapan harus disampaikan secara formal melalui surat penetapannya.
+
+3. Surat penetapan harus disampaikan kepada semua pihak yang mungkin mendapat man",
+4 Dense fine-tuned + LM adapter (usulan),q046,Sebuah instansi menetapkan klasifikasi informasi hanya lewat pesan lisan. Bagaimana penetapannya seharusnya?,situation,PP61_2010_p4,"Pasal 4 [PP 61/2010] mewajibkan pengklasifikasian Informasi harus mencakup beberapa elemen penting seperti identitas pejabat, alasan pengecualian, dan tempat dan tanggal penetapan. Pertanyaan Anda mengandalkan bahwa informasi tersebut diterbitkan secara fisik melalui surat. Namun, jika informasi tersebut diterbitkan secara fisik melalui surat, maka penetapan klasifikasi tersebut juga harus mencakup elemen-elemen yang disebutkan dalam Pasal 4. Oleh karena itu, penetapan klasifikasi informasi yang diterbitkan secara fisik melalui surat harus mencakup elemen-elemen yang disebutkan dalam Pasal 4.",
+4 Dense fine-tuned + LM adapter (usulan),q026,Apa hak Subjek Data Pribadi terkait pembatasan pemrosesan data?,explanation,UU27_2022_p11,Pasal 11 [UU 27/2022]: Subjek Data Pribadi berhak menunda atau membatasi pemrosesan Data Pribadi secara sesual dengan tujuan pemrosesan Data Pribadi.,
+4 Dense fine-tuned + LM adapter (usulan),q057,Saya ingin membatasi pemrosesan data pribadi saya untuk sementara. Apakah UU PDP membahas hal itu?,situation,UU27_2022_p11,"Ya, UU 27/2022 Pasal 11 memerlukan izin pengguna untuk membatasi pemrosesan data pribadi.",UU27_2022_p11
+4 Dense fine-tuned + LM adapter (usulan),q101,Bagaimana cara menghitung bunga majemuk investasi?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4 Dense fine-tuned + LM adapter (usulan),q114,Bagaimana cara mengajukan klaim asuransi perjalanan?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4 Dense fine-tuned + LM adapter (usulan),q115,Siapa penemu telepon dan kapan ditemukan?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4 Dense fine-tuned + LM adapter (usulan),q100,Apa penyebab gempa bumi tektonik?,out-of-scope,,Gempa bumi tektonik biasanya disebabkan oleh pergerakan struktural tanah dan batuan di bawah permukaan laut atau tanah dataran tinggi. Ini terjadi ketika adanya gesekan atau tekanan antara dua atau lebih daerah geologis yang berbeda. Gaya ini kemudian melekat pada dasar permukaan dan menyebabkan gempa bumi.,
+4 Dense fine-tuned + LM adapter (usulan),q110,Berapa harga emas per gram hari ini?,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",
+4 Dense fine-tuned + LM adapter (usulan),q108,Tolong terjemahkan kalimat ini ke bahasa Jepang.,out-of-scope,,"Maaf, pertanyaan ini di luar cakupan UU 14/2008, PP 61/2010, UU 25/2009, dan UU 27/2022.",

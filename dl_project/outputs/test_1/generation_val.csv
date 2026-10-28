@@ -1,0 +1,7 @@
+sistem,citation_acc,citation_precision,hallucinated_cite_rate,refusal_oos,false_refusal,n_in,n_oos
+1 LM tanpa retrieval,0.0,0.0,0.0,0.833,0.128,47,6
+2 BM25 + LM pretrained (baseline),0.17,0.381,0.0,0.667,0.0,47,6
+3 Dense + LM pretrained,0.213,0.435,0.0,0.667,0.0,47,6
+3b Dense fine-tuned + LM pretrained,0.298,0.583,0.0,0.833,0.0,47,6
+4a Dense + LM adapter,0.064,0.333,0.0,1.0,0.043,47,6
+4 Dense fine-tuned + LM adapter (usulan),0.085,0.571,0.0,1.0,0.043,47,6

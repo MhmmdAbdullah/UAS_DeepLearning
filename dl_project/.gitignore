@@ -1,5 +1,6 @@
 .venv/
 __pycache__/
 outputs/retriever_finetuned/
+outputs/test_1/retriever_finetuned/
 outputs/lora_adapter/
 data/raw/

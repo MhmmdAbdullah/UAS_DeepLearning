@@ -1,67 +1,21 @@
 qid,question,type,gold,answer,cited,key_fact_benar(0/1)
-q081,Bagaimana hak memperbaiki data pribadi berbeda dari hak meminta informasi publik yang benar?,cross-law,"UU27_2022_p6, UU14_2008_p4","Pasal 6 UU 27/2022 mengatur hak subjek data pribadi untuk melengkapi, memperbarui, dan/atau memperbaiki kesalahan dan/atau ketidakakuratan data pribadi tentang diri mereka. Sedangkan Pasal 7 UU 14/2008 Pasal 7 menyebutkan hak subjek data publik untuk mendapatkan informasi tentang kejelasan identitas, dasar kepentingan hukum, tujuan permintaan dan penggunaan data publik.",UU14_2008_p7,
-q010,Kapan badan publik wajib mengumumkan informasi secara serta-merta?,explanation,UU14_2008_p10,Pasal 10 UU 14/2008 menyatakan bahwa badan publik wajib mengumumkan secara spesial (serta-merta) informasi yang dapat mengancam kehidupan orang banyak dan ketertiban umum.,,
-q062,Informasi yang diminta berpotensi membahayakan pertahanan negara. Pasal PP 61/2010 mana yang relevan?,situation,PP61_2010_p7,Pasal PP 61/2010 Pasal 7.,PP61_2010_p7,
-q038,Siapa yang berkewajiban menyelenggarakan pelayanan publik sesuai tujuan pembentukannya?,explanation,UU25_2009_p8,"Pasal 8 UU 25/2009 mengasaskan bahwa ""Organisasi penyelenggara berkewajiban menyelenggarakan pelayanan publik sesuai dengan tujuan pembentukan.""",,
-q025,Bisakah seseorang mengajukan keberatan atas keputusan otomatis yang memakai datanya?,explanation,UU27_2022_p10,"Ya, seseorang dapat mengajukan keberatan atas keputusan otomatis yang memakai data mereka jika tersebut menimbulkan akibat hukum atau berdampak signifikan.",,
-q023,Apakah Subjek Data Pribadi dapat meminta salinan datanya?,explanation,UU27_2022_p7,"Ya, Subjek Data Pribadi berhak mendapatkan salinan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan.",,
-q011,Apa fungsi PPID dalam pengklasifikasian informasi yang dikecualikan?,explanation,PP61_2010_p3,"PPID memiliki dua fungsi utama dalam pengklasifikasian informasi yang dikecualikan:
-
-1. Mengubah klasifikasi Informasi yang Dikecualikan: PPID dapat mengubah klasifikasi Informasi yang Dikecualikan sesuai dengan Persetujuan Pimpinan Badan Publik yang bersangkutan.
-
-2. Menetapkan Klasifikasi Informasi: PPID menetapkan klasifikasi Informasi melalui Pengujian Konsekuensi, yang harus disetujui oleh pimpinan Badan Publik yang bersangkutan.",,
-q008,Apa kewajiban dasar badan publik terhadap informasi yang dikuasainya?,explanation,UU14_2008_p7,"Menyediakan dan memberikan Informasi Publik yang akurat, benar, dan tidak menyesatkan.",,
-q075,Apa perbedaan fokus UU KIP dan UU Pelayanan Publik dalam membantu warga berhubungan dengan instansi?,cross-law,"UU14_2008_p4, UU25_2009_p2","UU KIP: Mengatur penerapan hak-hak individu terhadap pemerintah.
-UU Pelayanan Publik: Memberikan ketepatan hukum dalam hubungan antara masyarakat dan penyelenggara pelayanan publik.",,
-q004,Apa prinsip umum akses terhadap Informasi Publik?,explanation,UU14_2008_p2,"Prinsip umum akses terhadap Informasi Publik adalah:
-
-1. Terbuka: Informasi Publik harus diakses oleh semua orang tanpa batasan.
-
-2. Sederhana: Akses harus mudah dan cepat.
-
-3. Cepat: Informasi harus dapat diakses dengan cepat.
-
-4. Biaya Ringan: Akses harus gratis atau dengan biaya rendah.
-
-5. Cara Sederhana: Akses harus mudah dan tidak rumit.
-
-6. Ketepatan Waktu: Akses harus dilakukan sesuai dengan ketentuan peraturan.
-
-7. Keamanan: Informasi Publik harus dirahasiakan jika ditentukan oleh undang-undang.",,
-q055,Sebuah perusahaan membuat keputusan otomatis hanya dari profil data saya dan saya ingin mengajukan keberatan. Hak apa yang relevan?,situation,UU27_2022_p10,"Pasal 10 [UU 27/2022]: Subjek Data Pribadi berhak mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis, termasuk pemprofilan, yang menimbulkan akibat hukum atau berdampak signifikan pada Subjek Data Pribadi.",,
-q020,Data Pribadi dibagi menjadi kategori apa menurut UU PDP?,explanation,UU27_2022_p4,"Menurut UU No. 27/2022 tentang Penyandian dan Penggunaan Data Pribadi, data pribadi dibagi menjadi tiga kategori:
-
-a. Subjek Data Pribadi
-b. Pengendali Data Pribadi
-c. Prosesor Data Pribadi
-
-Dalam konteks UU 27/2022, pengendalian data pribadi meliputi setiap orang, badan publik, dan organisasi internasional. Selain itu, peraturan pemerintahan juga memberikan hak subjek data pribadi untuk mendapatkan dan menggunakan data pribadi mereka.",,
-q087,Apa perbedaan peran PPID dalam informasi publik dengan organisasi penyelenggara dalam pelayanan publik?,cross-law,"PP61_2010_p3, UU25_2009_p8","Perbedaan utama antara PPID dan organisasi penyelenggara pelayanan publik terletak pada:
-
-1. Fungsinya: PPID bertanggung jawab lebih luas daripada organisasi penyelenggara pelayanan publik. PPID memiliki wewenang yang melibatkan penyediaan, penyimpanan, dan pengamanan informasi publik, serta pelayanan informasi publik.
-
-2. Tanggung jawab: PPID juga bertanggung jawab untuk menetapkan prosedur operasional penyebarluasan informasi publik, pengujian konsekuensi, dan penetapan pertimbangan tertulis atas setiap kebijakan yang diambil untuk memenuhi hak setiap orang atas informasi publik.
-
-3. Kemampuan: PPID memiliki kemampuan untuk melakukan semua tugas tersebut karena mereka dirancang untuk itu, sedangkan organisasi penyelenggara pelayanan publik biasanya fokus pada",,
-q078,Bagaimana prinsip keterbukaan informasi berhubungan dengan proses pengklasifikasian informasi yang dikecualikan?,cross-law,"UU14_2008_p2, PP61_2010_p3","Prinsip keterbukaan informasi berhubungan dengan proses pengklasifikasian informasi yang dikecualikan melibatkan dua hal:
-
-1. Pengklasifikasian Informasi Ditetapkan oleh PPID di setiap Badan Publik berdasarkan Pengujian Konsekuensi seca ra saksama dan penuh ketelitian.
-
-2. Penetapan Pengklasifikasian Informasi sebagaimana dimaksud pada ayat (1) dilakukan atas persetujuan pimpinan Badan Publik yang bersangkutan.
-
-Jadi, proses pengklasifikasian informasi yang dikecualikan harus mematuhi aturan yang mencakup pengujian konsekuensi dan persetujuan pimpinan.",,
-q022,Apakah seseorang berhak memperbaiki Data Pribadi yang keliru?,explanation,UU27_2022_p6,"Ya, seseorang berhak memperbaiki Data Pribadi yang keliru. Menurut Pasal 6 UU 27/2022, subjek Data Pribadi memiliki hak untuk melengkapi, memperbarui, dan/atau memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi sesuai tujuan pemrosesan Data Pribadi.",,
-q084,Bagaimana aturan pelayanan terpadu dan hak warga atas informasi dapat mendukung akses warga terhadap layanan pemerintah?,cross-law,"UU25_2009_p9, UU14_2008_p4","Dalam konteks UU 14/2008, pelayanan terpadu dan hak warga atas informasi dapat membantu akses warga terhadap layanan pemerintah melalui:
-
-1. Menjaga keakuratan dan keutuhan informasi publik.
-2. Menghindari kesalahan atau falsifiaksi dalam pengumpulan dan penyimpanan informasi publik.
-3. Meningkatkan keakraban antara pemerintah dan masyarakat.
-4. Memfasilitasi akses kepada informasi penting bagi warga.
-5. Memberikan kebebasan dan kebebasan untuk warga dalam memanfaatkan informasi publik.
-6. Mempromosiasi transparansi dan akuntabilitas dalam penerapan kebijakan publik.
-7. Meningkatkan keakuratan dan keakraban antara pemerintah dan masyarakat.
-8. Membantu warga dalam memahami dan memanfa",,
-q033,Apa yang perlu dibuat badan publik ketika ada permintaan Informasi Publik?,explanation,PP61_2010_p2,Badan publik wajib membuat pertimbangan tertulis setiap kebijakan yang diambil untuk memenuhi hak setiap orang atas Informasi Publik.,,
-q041,Saya ingin melihat informasi publik tetapi bukan pegawai pemerintah. Apakah saya tetap bisa mengajukan permintaan?,situation,UU14_2008_p4,"Ya, Anda tetap bisa mengajukan permintaan untuk melihat informasi publik jika bukan pegawai pemerintah. Anda harus menyertakan alasan permintaan tersebut dalam permintaan Anda.",,
-q035,Bagaimana jangka waktu pengecualian informasi terkait pertahanan dan keamanan diatur?,explanation,PP61_2010_p7,Jangka waktu pengecualian informasi terkait pertahanan dan keamanan ditetapkan selama jangka waktu yang dibutuhkan untuk perlindungan tersebut.,,
-q086,Bagaimana hak keberatan atas keputusan otomatis dan hak mendapat informasi mengenai penggunaan data saling melengkapi?,cross-law,"UU27_2022_p10, UU27_2022_p5",Hak keberatan atas keputusan otomatis dan hak mendapat informasi mengenai penggunaan data saling melengkapi dinyatakan dalam Pasal 10 UU 27/2022.,,
+q137,"Kalau badan publik mangkir saat disengketakan, apa Komisi Informasi bisa memanggilnya?",situation,UU14_2008_p27,Komisi Informasi memberikan salinan permohonan kepada pihak termohon. Dasar hukum: [UU 14/2008 Pasal 44].,UU14_2008_p44,
+q029,Dalam keadaan apa UU PDP berlaku terhadap pihak yang melakukan perbuatan hukum?,explanation,UU27_2022_p2,"Berlaku untuk setiap orang, badan publik, dan organisasi internasional yang melakukan perbuatan hukum di wilayah hukum Indonesia. Dasar hukum: [UU 27/2022 Pasal 2].",UU27_2022_p2,
+q036,Apa aturan mengenai informasi yang dapat mengungkap akta otentik pribadi atau wasiat?,explanation,PP61_2010_p8,Jangka waktu pembukaan informasi harus mencerminkan kepentingan hukum dan hak individu. Dasar hukum: [PP 61/2010 Pasal 8].,PP61_2010_p8,
+q234,Apakah saya boleh meminta data pribadi saya sendiri dalam format yang lazim digunakan?,explanation,UU27_2022_p13,"Ya, subjek data pribadi berhak mendapatkan dan/atau menggunakan data pribadi tentang dirinya dalam format yang lazim digunakan. Dasar hukum: [UU 27/2022 Pasal 13].",UU27_2022_p13,
+q156,Kapan gugatan sengketa informasi ke pengadilan bisa diajukan?,explanation,UU14_2008_p48,"Gugatan dilakukan melalui pengadilan tata usaha negara jika yang digugat adalah badan publik negara, atau melalui pengadilan negeri jika badan publik lainnya. Dasar hukum: [UU 14/2008 Pasal 47], [UU 14/2008 Pasal 37].","UU14_2008_p47, UU14_2008_p37",
+q207,Siapa yang menanggung biaya atau tarif pelayanan publik?,explanation,UU25_2009_p31,Negara dan masyarakat membayar biaya/pelunasan pelayanan publik. Dasar hukum: [UU 25/2009 Pasal 31].,UU25_2009_p31,
+q168,Bagaimana jangka waktu pengecualian untuk informasi yang bisa mengganggu hak kekayaan intelektual dan persaingan usaha ditentukan?,explanation,PP61_2010_p6,Ditetapkan berdasarkan ketentuan peraturan perundang-undangan. Dasar hukum: [PP 61/2010 Pasal 6].,PP61_2010_p6,
+q217,Orang lain boleh mengadukan pelayanan buruk atas nama saya?,situation,UU25_2009_p42,"Ya, masyarakat berhak mengadukan penyelenggaraan pelayanan publik kepada penyelenggara, ombudsman, dan/atau Dewan Perwakilan Rakyat. Dasar hukum: [UU 25/2009 Pasal 40].",UU25_2009_p40,
+q276,Apa ancaman pidana bagi yang memalsukan data pribadi?,explanation,UU27_2022_p68,"Pidana penjara paling lama 5 tahun dan/atau pidana denda paling banyak Rp5.000.000.000,00. Dasar hukum: [UU 27/2022 Pasal 67].",UU27_2022_p67,
+q223,Apakah identitas pengadu harus dirahasiakan?,explanation,UU25_2009_p49,Tidak. Dasar hukum: [UU 25/2009 Pasal 43].,UU25_2009_p43,
+q157,Apakah putusan PTUN dalam sengketa informasi bisa dikasasi?,explanation,UU14_2008_p50,"Tidak, karena penyelesaiannya melalui mediasi. Dasar hukum: [UU 14/2008 Pasal 40].",UU14_2008_p40,
+q174,Apakah PPID bekerja sendiri atau dibantu pejabat lain?,explanation,PP61_2010_p15,PPID dibantu oleh pejabat fungsional di Badan Publik yang bersangkutan. [PP 61/2010 Pasal 15],PP61_2010_p15,
+q251,Kapan pengendali wajib melakukan penilaian dampak pelindungan data pribadi?,explanation,UU27_2022_p34,Wajib melakukan penilaian dampak pelindungan data pribadi setelah pengambilan keputusan secara otomatis yang memiliki akibat hukum atau dampak yang signifikan terhadap subjek data. Dasar hukum: [UU 27/2022 Pasal 34].,UU27_2022_p34,
+q203,Apakah saham BUMN yang berkaitan dengan pelayanan publik boleh dipindahtangankan?,explanation,UU25_2009_p27,Dilarang dipindahtangankan dalam keadaan apa pun. [UU 25/2009 Pasal 27],UU25_2009_p27,
+q181,Kapan PP pelaksana UU Keterbukaan Informasi Publik mulai berlaku?,explanation,PP61_2010_p22,Mulai berlaku 2 tahun sejak diundangkannya undang tersebut. Dasar hukum: [UU 14/2008 Pasal 60].,UU14_2008_p60,
+q280,Apakah aturan lain tentang pelindungan data pribadi tetap berlaku setelah UU PDP?,explanation,UU27_2022_p75,"Ya, semua peraturan perundang-undangan yang mengatur pelindungan data pribadi tetap berlaku sepanjang tidak bertentangan dengan undang-undang tersebut. Dasar hukum: [UU 27/2022 Pasal 75], [UU 14/2008 Pasal 63].","UU27_2022_p75, UU14_2008_p63",
+q198,"Maklumat pelayanan itu apa sih, dan kenapa harus dipasang?",situation,UU25_2009_p22,Maklumat pelayanan wajib ditetapkan untuk menyampaikan kesanggupan dan menjaga ketersediaan pelayanan. Dasar hukum: [UU 25/2009 Pasal 22].,UU25_2009_p22,
+q135,Berapa jumlah anggota Komisi Informasi provinsi?,explanation,UU14_2008_p25,Komisi Informasi provinsi berjumlah 5 orang yang mencerminkan unsur pemerintah dan unsur masyarakat. Dasar hukum: [UU 14/2008 Pasal 24].,UU14_2008_p24,
+q014,Apa yang dimaksud dengan pelayanan publik menurut UU 25/2009?,explanation,UU25_2009_p1,Pelayanan publik adalah kegiatan atau rangkaian kegiatan dalam rangka pemenuhan kebutuhan pelayanan sesuai peraturan perundang-undangan. Dasar hukum: [UU 25/2009 Pasal 2].,UU25_2009_p2,
+q243,Siapa yang harus bisa menunjukkan bukti persetujuan pemrosesan data pribadi?,explanation,UU27_2022_p24,Pengendali Data Pribadi wajib menunjukkan bukti persetujuan yang telah diberikan oleh subjek data pribadi. [UU 27/2022 Pasal 24],UU27_2022_p24,
