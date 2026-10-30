@@ -48,6 +48,10 @@ Letakkan isinya di `dl_project/outputs/retriever_finetuned/` dan `dl_project/out
 ```
 UAS_DeepLearning/
   README.md
+  laporan/
+    Laporan_UAS_DL_Kelompok2.docx   laporan akhir (8-12 halaman)
+  presentasi/
+    Presentasi_UAS_DL_Kelompok2_Pipeline.pptx
   dl_project/
     config.py                  path, nama model, seed (42), TOP_K
     utils.py  prompts.py  retrieval.py
@@ -137,3 +141,15 @@ Skrip menampilkan pasal yang diambil, jawaban, dan sitasi yang terbaca. Membutuh
 ## 10. Referensi
 
 Hu et al. (2021) LoRA, arXiv:2106.09685. Dettmers et al. (2023) QLoRA, arXiv:2305.14314. Lewis et al. (2020) Retrieval-augmented generation. Wang et al. (2024) Multilingual E5, arXiv:2402.05672. Qwen Team (2024) Qwen2.5 Technical Report, arXiv:2412.15115.
+
+## 11. Checklist Submission
+
+Sesuai Section 6 UAS Brief, pengumpulan berupa satu tautan repositori (https://github.com/MhmmdAbdullah/UAS_DeepLearning) yang memuat:
+
+- [x] **The report**: `laporan/Laporan_UAS_DL_Kelompok2.docx` (struktur Section 5 brief)
+- [x] **The repository**: repositori ini, berisi kode, data, hasil, `requirements.txt`, seed tetap (42), dan README dengan satu perintah reproduksi (bagian 6)
+- [x] **The saved model artefact or a download link**: `retriever_finetuned` dan `lora_adapter` (bagian 3)
+- [x] **The per-member contribution statement**: Bagian 9 laporan
+- [x] **The AI use declarations**: Bagian 10 laporan
+
+Struktur folder mengikuti bagian 4 agar pemeriksa otomatis dapat menemukan setiap berkas.
